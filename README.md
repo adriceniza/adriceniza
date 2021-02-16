@@ -14,7 +14,9 @@
 <h2 align='center'>Currently learning</h2>
 <h3 align='center'>Programming</h3>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" rel="nofollow"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" style="max-width:100%;"></a>
-<a href="https://www.mysql.com/" title="MySQL" rel="nofollow"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mysql.png" style="max-width:100%;"></a>
+
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" rel="nofollow"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/javascript.png" style="max-width:100%;"></a>
 <a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/python.png" style="max-width:100%;"></a>
 <a href="https://www.java.com/en/" title="Java" rel="nofollow"><img src="https://p7.hiclipart.com/preview/1011/30/511/java-runtime-environment-java-development-kit-computer-software-macos-gucci-logo-thumbnail.jpg" height='32' width='32' style="max-width:100%;"></a>
+<h3 align='center'>Databases</h3>
+<a href="https://www.mysql.com/" title="MySQL" rel="nofollow"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mysql.png" style="max-width:100%;"></a>
