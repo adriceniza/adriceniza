@@ -1,6 +1,7 @@
 <h1 align='center'>Adrián Ceniza</h2>
 <div align='center'>
-<img src='https://img.shields.io/twitter/follow/sirzenii?label=Follow&style=social' href='https://twitter.com/sirzenii' alt='twitter'/>
+<a href='https://twitter.com/sirzenii' rel='nofollow'>
+ <img src='https://img.shields.io/twitter/follow/sirzenii?label=Follow&style=social' href='https://twitter.com/sirzenii' alt='twitter'/></a>
 <img src='https://img.shields.io/github/followers/adriceniza?style=social' alt='gitfollows'/>
  
 
