@@ -17,4 +17,4 @@
 <a href="https://www.mysql.com/" title="MySQL" rel="nofollow"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mysql.png" style="max-width:100%;"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" rel="nofollow"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/javascript.png" style="max-width:100%;"></a>
 <a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/python.png" style="max-width:100%;"></a>
-<a href="https://www.java.com/en/" title="Java" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height='32' width='32' style="max-width:100%;"></a>
+<a href="https://www.java.com/en/" title="Java" rel="nofollow"><img src="https://spng.subpng.com/20180605/bfp/kisspng-java-runtime-environment-programming-language-prog-java-5b16ff204dee47.5533682915282337603192.jpg" height='32' width='32' style="max-width:100%;"></a>
