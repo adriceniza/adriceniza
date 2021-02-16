@@ -4,7 +4,7 @@
 <img src='https://img.shields.io/github/followers/adriceniza?style=social' alt='gitfollows'/>
  
 <div align='center'>
-<h1 align='center' style='fontsize:20px'>About me'
+<h1 align='center' style='font-size:20px'>About me
 <p align='center'>Hi,I'm Adrián Ceniza and im a first year cross-platform developing student.
 <p align='center'>I'm 20 years old, and I live in Las Palmas de Gran Canaria, Spain.
 
