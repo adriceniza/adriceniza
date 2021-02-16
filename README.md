@@ -12,5 +12,5 @@
 <i align='center'>Hi,I'm Adrián Ceniza and im a first year cross-platform developing student.</i>
 <p align='center'>I'm 20 years old, and I live in Las Palmas de Gran Canaria, Spain.</p>
 <h2 align='center'>Currently learning</h2>
-<i align='center'>OOP : Java,Python</i>
-
+<h3 align='center'>Programming</h3>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code" rel="nofollow"><img src="/hussainweb/hussainweb/raw/main/icons/vscode.png" style="max-width:100%;"></a>
