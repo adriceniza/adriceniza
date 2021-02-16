@@ -1,10 +1,10 @@
 <h1 align='center'>Hey there, I'm Adrián Ceniza.|</h2>
 <div align='center'>
 <a href='https://twitter.com/sirzenii' rel='nofollow'>
- <img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg' href='https://twitter.com/sirzenii' alt='twitter'/></a>
+ <img height='32' width='32' src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg' href='https://twitter.com/sirzenii' alt='twitter'/></a>
  
  <a href='https://github.com/adriceniza' action="/users/follow?target=adriceniza" rel='nofollowgit'>
- <img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg' alt='gitfollows'/>
+ <img height='32' width='32' src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg' alt='gitfollows'/>
  </a>
 
 
