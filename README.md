@@ -11,4 +11,6 @@
 <h2 align='center' >About me</h2>
 <i align='center'>Hi,I'm Adrián Ceniza and im a first year cross-platform developing student.</i>
 <p align='center'>I'm 20 years old, and I live in Las Palmas de Gran Canaria, Spain.</p>
+<h2 align='center'>Currently learning</h2>
+<i align='center'>OOP : </i><p align='center'> Java,Python</p>
 
