@@ -3,7 +3,7 @@
 <a href='https://twitter.com/sirzenii' rel='nofollow'>
  <img src='https://img.shields.io/twitter/follow/sirzenii?label=Follow&style=social' href='https://twitter.com/sirzenii' alt='twitter'/></a>
  
- <a href='https://github.com/adriceniza' action="/users/follow?target=adriceniza" rel='nofollowgit'>
+ <a href='https://github.com/adriceniza/users/follow?target=adriceniza' action="/users/follow?target=adriceniza" rel='nofollowgit'>
  <img src='https://img.shields.io/github/followers/adriceniza?style=social' alt='gitfollows'/>
  </a>
 
