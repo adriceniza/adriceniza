@@ -16,3 +16,4 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" rel="nofollow"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" style="max-width:100%;"></a>
 <a href="https://www.mysql.com/" title="MySQL" rel="nofollow"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mysql.png" style="max-width:100%;"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" rel="nofollow"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/javascript.png" style="max-width:100%;"></a>
+<a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/python.png" style="max-width:100%;"></a>
