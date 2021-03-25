@@ -13,8 +13,7 @@
 <p align='center'>I'm 21 years old, and I live in Las Palmas de Gran Canaria, Spain.</p>
 <h2 align='center'>Currently learning</h2>
 <h3 align='center'>Programming</h3>
-<a align='center' href='reactjs.org' title='react'><img src='<img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="120" alt="React Icons">
-' style='max-width:100%;'></a>
+<a align='center' href='reactjs.org' title='react'><img src='https://rawgit.com/gorangajic/react-icons/master/react-icons.svg' width="120" alt="React Icons" style='max-width:100%;'></a>
 <a align='center' href="https://code.visualstudio.com/" title="Visual Studio Code" rel="nofollow"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" style="max-width:100%;"></a>
 
 <a align='center' href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" rel="nofollow"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/javascript.png" style="max-width:100%;"></a>
